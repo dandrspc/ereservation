@@ -1,0 +1,7 @@
+/home/daniel/projects/java/e-reservation/src/main/java/com/platzi/ereservation/business/services/ClientService.java
+/home/daniel/projects/java/e-reservation/src/main/java/com/platzi/ereservation/EReservationApplication.java
+/home/daniel/projects/java/e-reservation/src/main/java/com/platzi/ereservation/util/SwaggerConfig.java
+/home/daniel/projects/java/e-reservation/src/main/java/com/platzi/ereservation/business/repository/ClientRepository.java
+/home/daniel/projects/java/e-reservation/src/main/java/com/platzi/ereservation/model/Reservation.java
+/home/daniel/projects/java/e-reservation/src/main/java/com/platzi/ereservation/business/repository/ReservationRepository.java
+/home/daniel/projects/java/e-reservation/src/main/java/com/platzi/ereservation/model/Client.java
