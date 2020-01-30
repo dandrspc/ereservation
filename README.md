@@ -1,4 +1,4 @@
-# Project Title
+# E-Reservation
 
 A demo project for showcasing how to use Spring Boot to implement RESTful web services by creating a small appointment scheduler application
 
